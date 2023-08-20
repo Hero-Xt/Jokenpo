@@ -1,2 +1,2 @@
-# Jokenpo-jogo-
+# Jokenpo
 Jogo jokenpo em python
